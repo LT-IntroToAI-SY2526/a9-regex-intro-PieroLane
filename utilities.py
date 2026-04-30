@@ -2,7 +2,7 @@
 import re, string, calendar
 from wikipedia import WikipediaPage
 from bs4 import BeautifulSoup
-
+import requests
 from typing import List, Match
 
 
